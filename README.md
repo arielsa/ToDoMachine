@@ -1,3 +1,5 @@
+
+![Design preview for website coding challenge](public/todomachine2.jpg)
 # ToDo Machine
 
 ToDo Machine es una aplicación web desarrollada como parte de un curso de Platzi para aprender los conceptos básicos de React utilizando Create React App. ToDo Machine es una aplicación simple de lista de tareas que te permite agregar, completar y eliminar tareas.
