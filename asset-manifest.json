@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ToDoMachine/static/css/main.70ecb368.css",
+    "main.js": "/ToDoMachine/static/js/main.136e7a05.js",
+    "static/media/imagen.png": "/ToDoMachine/static/media/imagen.a7160345acccd88d8959.png",
+    "index.html": "/ToDoMachine/index.html",
+    "main.70ecb368.css.map": "/ToDoMachine/static/css/main.70ecb368.css.map",
+    "main.136e7a05.js.map": "/ToDoMachine/static/js/main.136e7a05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70ecb368.css",
+    "static/js/main.136e7a05.js"
+  ]
+}
